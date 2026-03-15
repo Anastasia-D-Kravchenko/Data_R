@@ -1,0 +1,13 @@
+---
+title: "My Data Science Report"
+author: "Your Name"
+date: "2023-10-25"
+output: html_document
+---
+
+## Introduction
+This is a basic R Markdown document showing how to embed code and text together.
+
+```{r setup, include=FALSE}
+# Setup chunk (hidden in output)
+library(ggplot2)
